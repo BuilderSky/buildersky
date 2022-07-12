@@ -8,5 +8,8 @@ Testing Markdown Checklist.
 - [ ] Checklist Item 2 **Not** checked
 And, of course, if you don't want to have to view my channel, here is my latest video:
 <p>
-<html>
-<iframe width="100" height="65" src="https://www.youtube.com/embed/B_4o8rvX6yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=B_4o8rvX6yE" target="_blank"><img src="http://img.youtube.com/vi/B_4o8rvX6yE/0.jpg" 
+alt="YouTube Video" width="240" height="180" border="10" /></a>
+
+<iframe width="100" height="65" src="https://www.youtube.com/embed/B_4o8rvX6yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
