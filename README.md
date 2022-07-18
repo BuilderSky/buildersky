@@ -12,16 +12,8 @@ alt="YouTube Video" width="600" height="425" />
 </a>
 </div>
 
-<div>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/B_4o8rvX6yE"
-  title="YouTube video player"
-  frameborder="0"
-  allowfullscreen
-></iframe>
-</div>
+[YouTube Vid](/youTubeVid.html)
+
 
 
 ██████████████████████████████████████████████
