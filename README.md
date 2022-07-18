@@ -7,7 +7,7 @@ And, of course, if you don't want to have to view my channel, here is my latest*
 <p>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=B_4o8rvX6yE" target="_blank"><img src="http://img.youtube.com/vi/B_4o8rvX6yE/0.jpg" 
-alt="YouTube Video" width="600" height="425" /></a>
+alt="YouTube Video" width="600" height="425" alignment="center"/></a>
 
 
 ██████████████████████████████████████████████
