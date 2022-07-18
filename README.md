@@ -12,9 +12,6 @@ alt="YouTube Video" width="600" height="425" />
 </a>
 </div>
 
-[YouTube Vid](/youTubeVid.html)
-
-
 
 ██████████████████████████████████████████████
 █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░█
@@ -30,6 +27,6 @@ alt="YouTube Video" width="600" height="425" />
 █░░░░░░░░░░░░░░█████████░░░░░░█░░░░░░░░░░░░░░█
 ██████████████████████████████████████████████
 
-I would love it if you would view my [GitHub progress](https://skyline.github.com/BuilderSky/2022) this year, too! ;) 
+I would love it if you would view my [GitHub progress](https://skyline.github.com/BuilderSky/2022) for this year, too! ;) 
 
 ### ***Currently being manually updated, may not be the latest video!
