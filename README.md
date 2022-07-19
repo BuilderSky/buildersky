@@ -1,9 +1,9 @@
-<center>
-<h1> Hello, Folks!!! This is BuilderSky here!
-<h2> You may also know me as Sky777 from numerous other places, or perhaps *E4C* (*Engines 4 Christ*) from YouTube!!!
-</center>
+# Hello, Folks!!! This is BuilderSky here!
+### You may also know me as Sky777 from numerous other places, or perhaps *E4C* (*Engines 4 Christ*) from YouTube!!!
 
 I do enjoy many different things, including lots of computer stuff, but I love fiddling with vehicles the most!!! That's why I created a YouTube channel, Engines 4 Christ, to document my journey through reviving two 1974 DJ Postal Jeeps! You can actually view [my channel](https://www.youtube.com/channel/UCeY5jNrEbLARbo-1ddJfVew "E4C on YouTube") here! ;)
+
+
 
 And, of course, if you don't want to have to view my channel, here is my latest*** video:
 <p>
@@ -12,7 +12,8 @@ And, of course, if you don't want to have to view my channel, here is my latest*
 alt="YouTube Video" width="600" height="425"/>
 </a>
 
-<p style="text-align:center">
+<html>
+<div style="text-align:center">
 ██████████████████████████████████████████████
 █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░█
 █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
@@ -26,7 +27,8 @@ alt="YouTube Video" width="600" height="425"/>
 █░░▄▀▄▀▄▀▄▀▄▀░░█████████░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
 █░░░░░░░░░░░░░░█████████░░░░░░█░░░░░░░░░░░░░░█
 ██████████████████████████████████████████████
-</p>
+</div>
+</html>
 
 I would love it if you would view my [GitHub progress](https://skyline.github.com/BuilderSky/2022) for this year, too! ;) 
 
