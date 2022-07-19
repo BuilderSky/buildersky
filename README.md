@@ -10,6 +10,7 @@ And, of course, if you don't want to have to view my channel, here is my latest*
 alt="YouTube Video" width="600" height="425"/>
 </a>
 
+<a style="text-align:center">
 ██████████████████████████████████████████████
 █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░█
 █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
@@ -23,6 +24,7 @@ alt="YouTube Video" width="600" height="425"/>
 █░░▄▀▄▀▄▀▄▀▄▀░░█████████░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
 █░░░░░░░░░░░░░░█████████░░░░░░█░░░░░░░░░░░░░░█
 ██████████████████████████████████████████████
+</a>
 
 I would love it if you would view my [GitHub progress](https://skyline.github.com/BuilderSky/2022) for this year, too! ;) 
 
