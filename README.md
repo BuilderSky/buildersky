@@ -1,7 +1,7 @@
 <html>
   <head>
 <h1 align="center"> Hello, Folks!!! This is BuilderSky here!</h1>
-<h2 align="center"> You may also know me as Sky777 from numerous other places, or perhaps *E4C* (*Engines 4 Christ*) from YouTube!!!</h2>
+<h2 align="center"> You may also know me as Sky777 from numerous other places, or perhaps <i>E4C (Engines 4 Christ)</i> from YouTube!!!</h2>
   </head>
 <body>
 <p align="center">
@@ -9,7 +9,7 @@ I do enjoy many different things, including lots of computer stuff, but I love f
 </p>
 <p align="center">
 <!-- Place this tag where you want the button to render. -->
-<a class="truthsocial-share" href="https://truthsocial.com/share?title=BuilderSky (E4C, Sky777) on GitHub!&url=https://github.com/BuilderSky">Share on Truth Social!</a>
+<a class="truthsocial-share" href="https://truthsocial.com/share?title=BuilderSky (E4C, Sky777) on GitHub! View my GitHub Page!&url=https://github.com/BuilderSky">Share on Truth Social!</a>
 </p>
 <p align="center">
 And, of course, if you don't want to have to view my channel, here is my latest*** video:
@@ -37,7 +37,12 @@ alt="YouTube Video" width="600" height="425"/>
 </p>
 
 <p align="center">
-I would love it if you would view my <a href="https://skyline.github.com/BuilderSky/2023">GitHub Progress</a> for this year, too! ;) 
+I would love it if you would view my <a href="https://skyline.github.com/BuilderSky/2023">GitHub Progress</a> for this year, too! ;)
 </p>
+  </html>
+  <md>
+    Favorite Color: `#0E5253`
+  </md>
+  <html>
 <h3 align="center"> ***Currently being manually updated, may not be the latest video!</h3>
 </html>
