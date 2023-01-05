@@ -1,16 +1,15 @@
 <html>
+  <head>
 <h1 align="center"> Hello, Folks!!! This is BuilderSky here!</h1>
 <h2 align="center"> You may also know me as Sky777 from numerous other places, or perhaps *E4C* (*Engines 4 Christ*) from YouTube!!!</h2>
+  </head>
 <body>
 <p align="center">
 I do enjoy many different things, including lots of computer stuff, but I love fiddling with vehicles the most!!! That's why I created a YouTube channel, Engines 4 Christ, to document my journey through reviving two 1974 DJ Postal Jeeps! You can actually view <a href="https://youtube.com/@E4C777">my channel here!</a> ;)
 </p>
-  <a class="truthsocial-share" href="https://truthsocial.com/instance/share.js">Test</a>
 <p align="center">
-<a class="truthsocial-share">
-<script src="https://truthsocial.com/instance/share.js">
-</script>
-</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="truthsocial-share" href="https://truthsocial.com/share?title=BuilderSky (E4C, Sky777) on GitHub!&url=https://github.com/BuilderSky">Share on Truth Social!</a>
 </p>
 <p align="center">
 And, of course, if you don't want to have to view my channel, here is my latest*** video:
