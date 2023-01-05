@@ -1,6 +1,6 @@
 <html>
   <head>
-<h1 align="center"> Hello, Folks!!! This is BuilderSky here!</h1>
+<h1 style="background-color:Teal;" align="center"> Hello, Folks!!! This is BuilderSky here!</h1>
 <h2 align="center"> You may also know me as Sky777 from numerous other places, or perhaps <i>E4C (Engines 4 Christ)</i> from YouTube!!!</h2>
   </head>
 <body>
@@ -39,10 +39,5 @@ alt="YouTube Video" width="600" height="425"/>
 <p align="center">
 I would love it if you would view my <a href="https://skyline.github.com/BuilderSky/2023">GitHub Progress</a> for this year, too! ;)
 </p>
-  </html>
-  <md>
-    Favorite Color: `#0E5253`
-  </md>
-  <html>
 <h3 align="center"> ***Currently being manually updated, may not be the latest video!</h3>
 </html>
