@@ -5,7 +5,7 @@
 <p align="center">
 I do enjoy many different things, including lots of computer stuff, but I love fiddling with vehicles the most!!! That's why I created a YouTube channel, Engines 4 Christ, to document my journey through reviving two 1974 DJ Postal Jeeps! You can actually view <a href="https://youtube.com/@E4C777">my channel here!</a> ;)
 </p>
-  <a href="https://truthsocial.com/instance/share.js">Test</a>
+  <a class="truthsocial-share" href="https://truthsocial.com/instance/share.js">Test</a>
 <p align="center">
 <a class="truthsocial-share">
 <script src="https://truthsocial.com/instance/share.js">
