@@ -1,22 +1,27 @@
-# Hello, Folks!!! This is BuilderSky here!
-### You may also know me as Sky777 from numerous other places, or perhaps *E4C* (*Engines 4 Christ*) from YouTube!!!
-
-<html><a class="truthsocial-share"></a><script src="https://truthsocial.com/instance/share.js"></script></html>
-
-
-I do enjoy many different things, including lots of computer stuff, but I love fiddling with vehicles the most!!! That's why I created a YouTube channel, Engines 4 Christ, to document my journey through reviving two 1974 DJ Postal Jeeps! You can actually view [my channel](https://www.youtube.com/channel/UCeY5jNrEbLARbo-1ddJfVew "E4C on YouTube") here! ;)
-
-
-
+<html>
+<h1 align="center"> Hello, Folks!!! This is BuilderSky here!</h1>
+<h2 align="center"> You may also know me as Sky777 from numerous other places, or perhaps *E4C* (*Engines 4 Christ*) from YouTube!!!</h2>
+<body>
+<p align="center">
+I do enjoy many different things, including lots of computer stuff, but I love fiddling with vehicles the most!!! That's why I created a YouTube channel, Engines 4 Christ, to document my journey through reviving two 1974 DJ Postal Jeeps! You can actually view <a href="https://youtube.com/@E4C777">my channel here!</a> ;)
+</p>
+  <a href="https://truthsocial.com/instance/share.js">Test</a>
+<p align="center">
+<a class="truthsocial-share">
+<script src="https://truthsocial.com/instance/share.js">
+</script>
+</a>
+</p>
+<p align="center">
 And, of course, if you don't want to have to view my channel, here is my latest*** video:
-<p>
-<a style="align:center" href="http://www.youtube.com/watch?feature=player_embedded&v=B_4o8rvX6yE/" target="blank" rel="noopener noreferrer">
+</p>
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=B_4o8rvX6yE/" target="blank" rel="noopener noreferrer">
 <img src="http://img.youtube.com/vi/B_4o8rvX6yE/0.jpg" 
 alt="YouTube Video" width="600" height="425"/>
 </a>
-
-<html>
-<div style="text-align:center">
+</p>
+<p align="center">
 ██████████████████████████████████████████████
 █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░█
 █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
@@ -30,9 +35,10 @@ alt="YouTube Video" width="600" height="425"/>
 █░░▄▀▄▀▄▀▄▀▄▀░░█████████░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
 █░░░░░░░░░░░░░░█████████░░░░░░█░░░░░░░░░░░░░░█
 ██████████████████████████████████████████████
-</div>
+</p>
+
+<p align="center">
+I would love it if you would view my <a href="https://skyline.github.com/BuilderSky/2023">GitHub Progress</a> for this year, too! ;) 
+</p>
+<h3 align="center"> ***Currently being manually updated, may not be the latest video!</h3>
 </html>
-
-I would love it if you would view my [GitHub progress](https://skyline.github.com/BuilderSky/2022) for this year, too! ;) 
-
-### ***Currently being manually updated, may not be the latest video!
