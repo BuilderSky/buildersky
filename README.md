@@ -7,8 +7,8 @@
 <p align="center">
 I do enjoy many different things, including lots of computer stuff, but I love fiddling with vehicles the most!!! That's why I created a YouTube channel, Engines 4 Christ, which I started to document my journey through reviving two 1974 DJ Postal Jeeps! (I didn't get very far before I quit on the Jeeps.. I have other video plans!) You can actually view <a href="https://youtube.com/@E4C777">my channel here!</a> ;)
 </p>
-<p>Just for the heck of it, here is my most recent 3D model! 
-</html>
+<p>Just for the heck of it, here is my most recent 3D model!
+<md>
 ```stl
 solid stlmesh
 facet normal 0.9623954032815304 -3.009591081705396e-8 0.2716525128589457
@@ -82242,7 +82242,7 @@ facet normal -1 0 0
 endfacet
 endsolid stlmesh
 ```
-<html>
+</md>
 </p>
 <p align="center">
 <!-- Place this tag where you want the button to render. -->
