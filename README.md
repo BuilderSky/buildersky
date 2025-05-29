@@ -11,8 +11,6 @@ I do enjoy many different things, including lots of computer stuff, but I love f
 <!-- Place this tag where you want the button to render. -->
 <a class="truthsocial-share" href="https://truthsocial.com/share?title=Visit E4C (aka Sky777) on GitHub!&url=https://github.com/BuilderSky">Share on Truth Social!</a>
 </p>
-<p align="center">Just in case you want to see, here is my 2023 <a href="BuilderSky-2023.stl">Skyline!</a>
-</p>
 <p align="center">
 And, of course, if you don't want to have to view my channel, here is my latest*** video:
 </p>
@@ -39,8 +37,7 @@ alt="YouTube Video" width="600" height="425"/>
 </p>
 
 <p align="center">
-I would love it if you would view my <a href="https://skyline.github.com/BuilderSky/2023">Skyline</a> for this year, too! ;)
-***You have to "Go To Homepage" when the screen comes up, then hit the back button on your browser to view it. This is a bug with Skyline.
+I would love it if you would view my <a href="https://gitskyline.vercel.app/BuilderSky?endDate=2025-01-28">Skyline</a> for this year, too! ;)
 </p>
 <h3 align="center"> ***Currently being manually updated, may not be the latest video!</h3>
 </html>
